@@ -1,0 +1,1 @@
+import style from './assets/custom.css'; // eslint-disable-line no-unused-vars

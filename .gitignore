@@ -1,0 +1,7 @@
+# dont need node modules
+/node_modules/
+
+# excluding development related
+.env
+*.log
+/dist/
